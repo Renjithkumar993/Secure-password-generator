@@ -4,7 +4,7 @@ passGenerator.addEventListener("click", writePassword);
 
 function writePassword() {
 
-let passLengthRequest= alert ("You are about to change your password\n Please read the instructions carefully");
+let passLengthRequest= alert ("You are about create a secure password\n Please read the instructions carefully");
  
     passLengthRequest= prompt ("Please provide the length of the password you would like to have");
  

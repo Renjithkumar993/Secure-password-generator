@@ -8,13 +8,13 @@ This project is to generate secure passwords that meet certain criteria. It prov
 
 ## Installation
 
-There are no requirement of installing any application to run this and the website is build using Java-script.
+There are no requirement of installing any application to run this and the website is built using Javascript.
 the website is deployed using GitHub Pages.
 
 
 ## Usage
 
-To access the website please visit https://renjithkumar993.github.io/secure-password-generator/
+To access the website please visit https://renjithkumar993.github.io/Secure-password-generator/
 
 To continue click on generate button.
 
