@@ -19,7 +19,7 @@ To access the website please visit https://renjithkumar993.github.io/Secure-pass
 To continue click on generate button.
 
 ## Credits
-N/A
+N/A.
 
 ## icense
 Please refer to the LICENSE in the repo.
