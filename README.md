@@ -17,6 +17,8 @@ the website is deployed using GitHub Pages.
 To access the website please visit https://renjithkumar993.github.io/Secure-password-generator/
 
 To continue click on generate button.
+![image](https://user-images.githubusercontent.com/121647888/217103975-b3a5920a-ca3d-4a51-a648-5bd1c5cb182d.png)
+
 
 ## Credits
 N/A.
